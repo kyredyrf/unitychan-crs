@@ -1,9 +1,8 @@
 Unity-Chan "Candy Rock Star" Public Repository
 ----------------------------------------------
+![Screenshot](https://user-images.githubusercontent.com/8056961/125221121-bde0d400-e302-11eb-9602-a16888f1f75a.png)
 
-![Screenshot][Screenshot]
-
-[Web Player Demo][WebPlayer] / [Watch on YouTube][YouTube]
+[Web Player Demo](https://kyredyrf.github.io/unitychan-crs/WebGL/) / [Watch on YouTube](https://www.youtube.com/watch?v=M_GUlXJ52YA)
 
 - See [README_EN.txt][Readme EN] for further information.
 - 日本語の説明は[README_JP.txt][Readme JP]をご覧ください。
